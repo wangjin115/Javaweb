@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../springboot-mybatis-quickstart/springboot-mybatis-quickstart" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven-projectA/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven-projectB/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven-projectC/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-web-quickstart/springboot-web-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootwebquickstart/springboot-web-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-web01/springboot-web01/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis-quickstart/springboot-mybatis-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis-quickstat/springboot-mybatis-quickstat/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis01/pringboot-mybatis01/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis-start/springboot-mybatis-start/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis-crud/springboot-mybatis-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/../tlias-web-management/tlias-web-management/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-aop-quickstart/springboot-aop-quickstart/pom.xml" />
+        <option value="$USER_HOME$/Downloads/资料-6/02. aop/springboot-aop-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-aop-quickstart/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Downloads/资料-6/02. aop/springboot-aop-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-aop-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-aop-quickstart/springboot-aop-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis-crud/springboot-mybatis-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis-quickstart/springboot-mybatis-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-web01/springboot-web01/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
